@@ -6,4 +6,4 @@ Population Data: https://www2.census.gov/programs-surveys/popest/datasets/2010-2
 
 COVID-19 Data: https://github.com/nytimes/covid-19-data
 
-*note: examine the county names for each state, they need to be modified slightly for counties with more than one space in the name for these maps to handle the data properly. County Level data will come back missing if names mismatch
+*note: Pay special attention to the County Names from the census data. Examine the county names for each state, they need to be modified slightly for counties with more than one space in the name for these maps to handle the data properly. County Level data will come back missing if names mismatch. 
