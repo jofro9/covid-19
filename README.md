@@ -1,6 +1,9 @@
 # covid-19
 COVID-19 State, county-level maps
 Poorly Commented Code, reach out for questions.
+States Done: Wyoming, Colorado, Oregon, Washington, Pennsylvania, Georgia, Minnesota and Maine
+
+Doing a new state: copy code from a new state, change some variable names, import the data from links below, and clean the county names!
 
 The purpose of these maps is to illustrate the difference between Case count and Incidence. In this case when I am referring to incidence it means: incidence = (count / (population/10000))
 
